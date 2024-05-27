@@ -10,7 +10,7 @@ body{
     background-color: black;
     color: white; 
 } 
-nav{
+nav{ 
    display: flex;
    justify-content: space-around; 
    position: fixed;
